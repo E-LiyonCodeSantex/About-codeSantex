@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **Front End Junior Developer** with experience in **more of front end dev with littl backend idea and Ui/ux design using figma**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Front End Junior Developer** with experience in **more of front end dev with little backend idea and Ui/ux design using figma**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Pro front end development from ALX Africa**
 - 🔭 Working on: **eccomerce website where fashion wears and health suplement will be sold**
@@ -22,7 +22,7 @@ I'm a passionate **Front End Junior Developer** with experience in **more of fro
 
 ## Get in Touch 📬
 
-- **[LinkedIn]**www.linkedin.com/in/chineduezemuonye
+- **[LinkedIn]** www.linkedin.com/in/chineduezemuonye
 - **[Twitter]** https://x.com/Edu_Santex
 
 
